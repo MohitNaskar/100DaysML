@@ -1,0 +1,17 @@
+FRAME THE PROBLEM : To decide which algorithm to use and how much data to use also which machine learning models to use.
+
+GATHERING DATA : From where to gather the data. To take the data from a api, to use csv or to web scrap.
+
+DATA PREPROCESSING : The data we collect will be noisy we have to clean and clear the data from the duplicates and outlier.
+
+EXPLORATORY DATA ANALYSIS : To analize the data and do the visualization on the columns independenly and dependently.
+
+FEATURE ENGINEERING and SELECTION : Decreasing the input column and selecting the right data for the models.
+
+MODEL TRAINING AND EVALUATION : Selecting the right training algorithm and using the right evaluation techniques to get the desired data .
+
+MODEL DEPLOYEMENT : Converting the model into a software and deploying it for the commons to use.
+
+TESTING : Testing the model with a specific set of users.
+
+OPTIMIZE : From the feedbacks from the users optimising the data and fixing the models if any changes has to be made.

@@ -1,0 +1,30 @@
+Based on amount of supervision need we can divide the types of Machine learning in 4 parts
+
+SUPERVISED : When we both have input and output data and we need to establish a relationship between both.
+|**\_\_** Regression : A type of a supervised machine learning and the data is numerical data we use regression method
+|**\_\_** Classification : Another type of supervised machine learning which uses categorical data
+
+UNSUPERVISED : When we have only input data we use the unsupervised learning.
+|**\_\_** Clustering : helps in the ditection of identical group of data
+|**\_\_** Dimensionality Reduction : Since there is large amount of input data we can reduce the dimension of the data(column deduction)
+|**\_\_** Anomaly Detection : Detecting outliers
+|**\_\_** Association Rule Based Learning : Based on human behavior and psychology associating data along the patterns.
+
+SEMI_SUPERVISED : A bit of both supervised and unsupervised we can provide a small amount of data which can be scaled to large amounts.
+
+REINFORCEMENT LEARNING : Without data or minimal data the models learn from the environment based on the experiences or the data it gathers.
+
+BATCH LEARNING : A whole batch or the whole data is used to train the model. It is usually done offline.
+Problems : Not always up to date.
+Hardware Limitation.
+Availability of the system.
+
+ONLINE LEARNING : Real time training of the Machine Learning Model. The data is fed sequentially in small chunks to the model while being in the server.
+
+---
+
+How do machine learn?
+
+INSTANCE BASED LEARNING : If a model is learning or mugging up the patterns then it is called instance based learning. I depends on mainly the clustering of the data to understand the patterns
+
+MODEL BASED LEARNING : The model based learning tries to find a mathematical relation between the output and input.
