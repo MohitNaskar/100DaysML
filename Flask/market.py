@@ -12,6 +12,9 @@ class Item(db.Model):
     price = db.Column(db.Float, nullable=False)
     quantity = db.Column(db.Integer, nullable=False)
 
+    def __repr__(self):
+        return f'Item {self.name}, {self.price}, {self.quantity}'
+
 
 @app.route('/') #decorator
 @app.route('/home') #decorator
